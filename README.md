@@ -7,7 +7,7 @@ A simple web-based chatbot built using Flask and Hugging Face transformer models
 - Python
 - Flask
 - Hugging Face Transformers
-- HTML/CSS/JS
+- HTML/CSS
 
 ## Features
 - Basic conversational chatbot
